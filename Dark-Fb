@@ -69,7 +69,7 @@ echo $ungu"
 ║
 ┗────[$pu 99 $ungu] exit $me✘"
 echo "\033[35;1m"
-read -p "root@Pilih Nomor > " bro
+read -p "root@Mr.004 > " bro
 if [ $bro = 0 ] || [ $bro]
 then
 clear
