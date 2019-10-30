@@ -42,7 +42,7 @@ $banner = "
 sleep(2);
 echo $banner;
 sleep(1);
-echo "### masukan email TTD M.004 : ";
+echo "### masukan email Target : ";
 $target = trim(fgets(STDIN));
 sleep(1);
 echo "### masukan jumlah : ";
